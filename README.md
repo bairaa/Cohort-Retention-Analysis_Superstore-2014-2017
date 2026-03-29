@@ -1,8 +1,6 @@
 # Customer Cohort Retention Analysis (Superstore Dataset)
 By Saddam Fachriza Yusuf & Baira Rahayu
 
-Tableau: https://public.tableau.com/app/profile/baira.rahayu/viz/Book2_17684449727500/superstoredashboard
-
 ## Project Overview
 
 This project analyzes customer purchasing behavior using **cohort retention analysis** to understand how well the business retains customers over time.
